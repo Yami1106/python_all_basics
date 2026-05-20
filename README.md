@@ -1,42 +1,33 @@
 <div align="center">
 
-<pre>
-╔═══════════════════════════╗
-║     💻  python_all_basics  💻     ║
-╚═══════════════════════════╝
-</pre>
+# Python Fundamentals
 
-## Project Repository
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
-
+*Comprehensive Python basics — the foundation built before moving on to ML, robotics, and computer vision work.*
 
 </div>
 
 ---
 
-## About
+## Topics covered
 
-A Python project repository. See the source code for details.
-
----
-
-## Features
-
-- See source code for details
-
----
-
-## Tech Stack
-
-_See source_
+- Variables, types, control flow
+- Functions, lambda, decorators
+- Lists, tuples, dicts, sets and comprehensions
+- File handling and exception management
+- OOP: classes, inheritance, dunder methods
+- Modules and packages
+- Basic algorithms and problem solving
 
 ---
 
-## Author
+## Tech stack
 
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+`Python 3`
 
 ---
 
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
